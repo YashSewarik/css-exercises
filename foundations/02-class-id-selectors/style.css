@@ -1,0 +1,15 @@
+.odd{
+	background-color: lightpink;
+	font-family: sans-serif,'VERDANA','Dejavu Sans';
+}
+
+#i2{
+	color: blue;
+	font-size: 36px;	
+}
+
+#i4{
+	background-color: lightgreen;
+	font-size: 24px;
+	font-weight: bold;
+}
